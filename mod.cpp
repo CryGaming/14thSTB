@@ -1,0 +1,9 @@
+name = "14th Special Operations Brigade Aux Mod";
+author = "Hound";
+picture = "14th_Main_menu\data\14th_Icon.paa";
+logoSmall = "14th_Main_menu\data\14th_Icon.paa";
+logo = "14th_Main_menu\data\14th_Icon.paa";
+logoOver = "";
+description = "14th SOB Mod and Assets";
+hideName = 0;
+hidePicture = 0;
